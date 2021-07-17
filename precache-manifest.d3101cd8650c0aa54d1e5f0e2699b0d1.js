@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63b44c876f4724e735e9cd1ab9dea383",
+    "revision": "fc5ddd3ab7c1394d98048c8b784e4a0b",
     "url": "https://kola9999.github.io/csb-93mxb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kola9999.github.io/csb-93mxb/static/css/2.8ab860fe.chunk.css"
   },
   {
-    "revision": "b9890f9e2502d3c88d17",
+    "revision": "32913fa401e2f0f68742",
     "url": "https://kola9999.github.io/csb-93mxb/static/css/main.bbbbf122.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kola9999.github.io/csb-93mxb/static/js/2.ac62843f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9890f9e2502d3c88d17",
-    "url": "https://kola9999.github.io/csb-93mxb/static/js/main.3af096a2.chunk.js"
+    "revision": "32913fa401e2f0f68742",
+    "url": "https://kola9999.github.io/csb-93mxb/static/js/main.dfc961f5.chunk.js"
   },
   {
     "revision": "fd27c46f5b03f194161c",

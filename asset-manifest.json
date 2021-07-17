@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://kola9999.github.io/csb-93mxb/static/css/main.bbbbf122.chunk.css",
-    "main.js": "https://kola9999.github.io/csb-93mxb/static/js/main.3af096a2.chunk.js",
-    "main.js.map": "https://kola9999.github.io/csb-93mxb/static/js/main.3af096a2.chunk.js.map",
+    "main.js": "https://kola9999.github.io/csb-93mxb/static/js/main.dfc961f5.chunk.js",
+    "main.js.map": "https://kola9999.github.io/csb-93mxb/static/js/main.dfc961f5.chunk.js.map",
     "runtime-main.js": "https://kola9999.github.io/csb-93mxb/static/js/runtime-main.e704bd7a.js",
     "runtime-main.js.map": "https://kola9999.github.io/csb-93mxb/static/js/runtime-main.e704bd7a.js.map",
     "static/css/2.8ab860fe.chunk.css": "https://kola9999.github.io/csb-93mxb/static/css/2.8ab860fe.chunk.css",
     "static/js/2.ac62843f.chunk.js": "https://kola9999.github.io/csb-93mxb/static/js/2.ac62843f.chunk.js",
     "static/js/2.ac62843f.chunk.js.map": "https://kola9999.github.io/csb-93mxb/static/js/2.ac62843f.chunk.js.map",
     "index.html": "https://kola9999.github.io/csb-93mxb/index.html",
-    "precache-manifest.149f235d54050763a95c016ecedc73cc.js": "https://kola9999.github.io/csb-93mxb/precache-manifest.149f235d54050763a95c016ecedc73cc.js",
+    "precache-manifest.d3101cd8650c0aa54d1e5f0e2699b0d1.js": "https://kola9999.github.io/csb-93mxb/precache-manifest.d3101cd8650c0aa54d1e5f0e2699b0d1.js",
     "service-worker.js": "https://kola9999.github.io/csb-93mxb/service-worker.js",
     "static/css/2.8ab860fe.chunk.css.map": "https://kola9999.github.io/csb-93mxb/static/css/2.8ab860fe.chunk.css.map",
     "static/css/main.bbbbf122.chunk.css.map": "https://kola9999.github.io/csb-93mxb/static/css/main.bbbbf122.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.8ab860fe.chunk.css",
     "static/js/2.ac62843f.chunk.js",
     "static/css/main.bbbbf122.chunk.css",
-    "static/js/main.3af096a2.chunk.js"
+    "static/js/main.dfc961f5.chunk.js"
   ]
 }
